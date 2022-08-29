@@ -7,6 +7,7 @@ package strategy;
 
 public class StrategyMain {
 	public static void main(String[] args) {
+		
 		SumPrinter sp = new SumPrinter();
 		
 		sp.print(new SimpleSumStrategy(), 10);//둘이 서로 다른 방식이지만
