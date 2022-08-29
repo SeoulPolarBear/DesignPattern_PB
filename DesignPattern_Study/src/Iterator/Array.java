@@ -1,6 +1,7 @@
 package Iterator;
 
 
+
 //내부를 노출하지 않고 접근이 잦은 어떤 객체의 원소를 
 //순차적으로 접근할 수 있는 동일한 인터페이스 제공
 public class Array implements Aggregator{

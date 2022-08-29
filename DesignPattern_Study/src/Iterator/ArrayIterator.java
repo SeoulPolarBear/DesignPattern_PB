@@ -10,6 +10,7 @@ public class ArrayIterator implements Iterator{
 		this.index = -1;
 	}
 	
+	
 	@Override
 	public boolean next() {
 		// TODO Auto-generated method stub

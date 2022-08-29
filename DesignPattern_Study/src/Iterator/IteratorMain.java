@@ -13,6 +13,7 @@ public class IteratorMain {
 				new Item("HDD", 50)
 		};
 		
+		
 		Array array = new Array(items);
 		Iterator iterator = array.iterator();
 		
